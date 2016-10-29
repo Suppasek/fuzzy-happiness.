@@ -1,5 +1,8 @@
 def findarea():
     """shit give me"""
-    return 0
+    pi = 22/7
+    r = 4
+    area = pi*r*r
+    return area
 
 print(findarea())
