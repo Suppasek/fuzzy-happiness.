@@ -1,6 +1,6 @@
 """boss"""
 def findarea():
-    """shit"""
+    """Hello"""
     pi, r = 22/7, 4
     area = pi*r*r
     return area
